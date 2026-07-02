@@ -1,0 +1,1098 @@
+#include <windows.h>
+#include <stdio.h>
+
+BOOL APIENTRY DllMain(HMODULE hModule, DWORD reason, LPVOID lpReserved) {
+    switch (reason) {
+        case DLL_PROCESS_ATTACH: break;
+        case DLL_THREAD_ATTACH: break;
+        case DLL_THREAD_DETACH: break;
+        case DLL_PROCESS_DETACH: break;
+    }
+    return TRUE;
+}
+
+extern "C" __declspec(dllexport) int t24ILvVuX(int param) {
+    int result = param * 54 + 364;
+    return result;
+}
+
+extern "C" __declspec(dllexport) int 42Amj7I0Z(int param) {
+    int result = param * 32 + 74;
+    return result;
+}
+
+extern "C" __declspec(dllexport) int FtrJr9Enw(int param) {
+    int result = param * 92 + 10;
+    return result;
+}
+
+extern "C" __declspec(dllexport) int VGTprmfcl(int param) {
+    int result = param * 7 + 362;
+    return result;
+}
+
+extern "C" __declspec(dllexport) int kBqolYzxP(int param) {
+    int result = param * 119 + 354;
+    return result;
+}
+
+extern "C" __declspec(dllexport) int Clu0yi0vP(int param) {
+    int result = param * 43 + 479;
+    return result;
+}
+
+extern "C" __declspec(dllexport) int kr5mEBzdW(int param) {
+    int result = param * 88 + 169;
+    return result;
+}
+
+extern "C" __declspec(dllexport) int iTyvP1tT4(int param) {
+    int result = param * 57 + 172;
+    return result;
+}
+
+extern "C" __declspec(dllexport) int cVFs6x6l8(int param) {
+    int result = param * 23 + 256;
+    return result;
+}
+
+extern "C" __declspec(dllexport) int OzRukdesq(int param) {
+    int result = param * 12 + 476;
+    return result;
+}
+
+extern "C" __declspec(dllexport) int LJEb5qXLc(int param) {
+    int result = param * 95 + 448;
+    return result;
+}
+
+extern "C" __declspec(dllexport) int 13seJ18iy(int param) {
+    int result = param * 95 + 225;
+    return result;
+}
+
+extern "C" __declspec(dllexport) int 9D2JAUhHU(int param) {
+    int result = param * 16 + 135;
+    return result;
+}
+
+extern "C" __declspec(dllexport) int vA3gyXf8i(int param) {
+    int result = param * 120 + 68;
+    return result;
+}
+
+extern "C" __declspec(dllexport) int QEDKtJrxP(int param) {
+    int result = param * 82 + 229;
+    return result;
+}
+
+extern "C" __declspec(dllexport) int bXalK33lY(int param) {
+    int result = param * 44 + 383;
+    return result;
+}
+
+extern "C" __declspec(dllexport) int LAkpXCwrs(int param) {
+    int result = param * 56 + 34;
+    return result;
+}
+
+extern "C" __declspec(dllexport) int Ar6nTvm8L(int param) {
+    int result = param * 57 + 495;
+    return result;
+}
+
+extern "C" __declspec(dllexport) int SB8g9sFrJ(int param) {
+    int result = param * 23 + 229;
+    return result;
+}
+
+extern "C" __declspec(dllexport) int nk4mi9FIH(int param) {
+    int result = param * 96 + 441;
+    return result;
+}
+
+extern "C" __declspec(dllexport) int QYEtAwz9C(int param) {
+    int result = param * 112 + 407;
+    return result;
+}
+
+extern "C" __declspec(dllexport) int PmWS6UogX(int param) {
+    int result = param * 15 + 484;
+    return result;
+}
+
+extern "C" __declspec(dllexport) int QhENQay3k(int param) {
+    int result = param * 77 + 31;
+    return result;
+}
+
+extern "C" __declspec(dllexport) int IkanIMWyy(int param) {
+    int result = param * 41 + 448;
+    return result;
+}
+
+extern "C" __declspec(dllexport) int 0AnIo9YDV(int param) {
+    int result = param * 16 + 160;
+    return result;
+}
+
+extern "C" __declspec(dllexport) int RiD8avPrv(int param) {
+    int result = param * 32 + 293;
+    return result;
+}
+
+extern "C" __declspec(dllexport) int CZ8qneoZQ(int param) {
+    int result = param * 39 + 252;
+    return result;
+}
+
+extern "C" __declspec(dllexport) int bMkrtwgjt(int param) {
+    int result = param * 119 + 498;
+    return result;
+}
+
+extern "C" __declspec(dllexport) int VZRJokYrX(int param) {
+    int result = param * 40 + 387;
+    return result;
+}
+
+extern "C" __declspec(dllexport) int X8aydFkoJ(int param) {
+    int result = param * 97 + 228;
+    return result;
+}
+
+extern "C" __declspec(dllexport) int Y8WfThxgU(int param) {
+    int result = param * 41 + 207;
+    return result;
+}
+
+extern "C" __declspec(dllexport) int 6Vz3svJsU(int param) {
+    int result = param * 50 + 343;
+    return result;
+}
+
+extern "C" __declspec(dllexport) int c0DIA3CeA(int param) {
+    int result = param * 67 + 427;
+    return result;
+}
+
+extern "C" __declspec(dllexport) int Cnr6jWMB9(int param) {
+    int result = param * 12 + 303;
+    return result;
+}
+
+extern "C" __declspec(dllexport) int xyBm15u6L(int param) {
+    int result = param * 91 + 18;
+    return result;
+}
+
+extern "C" __declspec(dllexport) int THIUhprJj(int param) {
+    int result = param * 85 + 8;
+    return result;
+}
+
+extern "C" __declspec(dllexport) int 86GkAgLW6(int param) {
+    int result = param * 24 + 424;
+    return result;
+}
+
+extern "C" __declspec(dllexport) int o3yzw0swE(int param) {
+    int result = param * 84 + 303;
+    return result;
+}
+
+extern "C" __declspec(dllexport) int NgTRZIndz(int param) {
+    int result = param * 79 + 252;
+    return result;
+}
+
+extern "C" __declspec(dllexport) int cJI80wDhF(int param) {
+    int result = param * 73 + 157;
+    return result;
+}
+
+extern "C" __declspec(dllexport) int YTt59GQo0(int param) {
+    int result = param * 66 + 115;
+    return result;
+}
+
+extern "C" __declspec(dllexport) int Iw3kWBIwv(int param) {
+    int result = param * 117 + 442;
+    return result;
+}
+
+extern "C" __declspec(dllexport) int bgE1cxEso(int param) {
+    int result = param * 106 + 219;
+    return result;
+}
+
+extern "C" __declspec(dllexport) int 0elrrmHIS(int param) {
+    int result = param * 21 + 137;
+    return result;
+}
+
+extern "C" __declspec(dllexport) int 1Xwq4Zkrd(int param) {
+    int result = param * 119 + 432;
+    return result;
+}
+
+extern "C" __declspec(dllexport) int 04CWrJVlm(int param) {
+    int result = param * 33 + 146;
+    return result;
+}
+
+extern "C" __declspec(dllexport) int ab8dNGqWA(int param) {
+    int result = param * 87 + 160;
+    return result;
+}
+
+extern "C" __declspec(dllexport) int cqpObHyIb(int param) {
+    int result = param * 44 + 208;
+    return result;
+}
+
+extern "C" __declspec(dllexport) int 2eZYNVVBS(int param) {
+    int result = param * 5 + 118;
+    return result;
+}
+
+extern "C" __declspec(dllexport) int iMvROoAPF(int param) {
+    int result = param * 17 + 61;
+    return result;
+}
+
+extern "C" __declspec(dllexport) int mBwxl5fnv(int param) {
+    int result = param * 51 + 156;
+    return result;
+}
+
+extern "C" __declspec(dllexport) int skB7cUrSu(int param) {
+    int result = param * 56 + 147;
+    return result;
+}
+
+extern "C" __declspec(dllexport) int jfuLhVhr2(int param) {
+    int result = param * 62 + 446;
+    return result;
+}
+
+extern "C" __declspec(dllexport) int jtywBDCTe(int param) {
+    int result = param * 7 + 135;
+    return result;
+}
+
+extern "C" __declspec(dllexport) int 1KxbKz2fQ(int param) {
+    int result = param * 32 + 486;
+    return result;
+}
+
+extern "C" __declspec(dllexport) int KVRYoxodG(int param) {
+    int result = param * 23 + 40;
+    return result;
+}
+
+extern "C" __declspec(dllexport) int QNaHFjmMX(int param) {
+    int result = param * 20 + 341;
+    return result;
+}
+
+extern "C" __declspec(dllexport) int L6gLZolNr(int param) {
+    int result = param * 51 + 47;
+    return result;
+}
+
+extern "C" __declspec(dllexport) int HOE9MDfRZ(int param) {
+    int result = param * 46 + 319;
+    return result;
+}
+
+extern "C" __declspec(dllexport) int ymtfzBHCH(int param) {
+    int result = param * 46 + 156;
+    return result;
+}
+
+extern "C" __declspec(dllexport) int ys79rGnuB(int param) {
+    int result = param * 82 + 424;
+    return result;
+}
+
+extern "C" __declspec(dllexport) int sj0CGqknZ(int param) {
+    int result = param * 70 + 271;
+    return result;
+}
+
+extern "C" __declspec(dllexport) int Mz7j9qxKO(int param) {
+    int result = param * 91 + 105;
+    return result;
+}
+
+extern "C" __declspec(dllexport) int 3gw0zioaF(int param) {
+    int result = param * 72 + 74;
+    return result;
+}
+
+extern "C" __declspec(dllexport) int kQ0my9iY0(int param) {
+    int result = param * 58 + 233;
+    return result;
+}
+
+extern "C" __declspec(dllexport) int 3WH5pT6lO(int param) {
+    int result = param * 16 + 53;
+    return result;
+}
+
+extern "C" __declspec(dllexport) int Ip0BwlQt4(int param) {
+    int result = param * 72 + 343;
+    return result;
+}
+
+extern "C" __declspec(dllexport) int Kqk83qgTc(int param) {
+    int result = param * 52 + 194;
+    return result;
+}
+
+extern "C" __declspec(dllexport) int hQWl24Yu8(int param) {
+    int result = param * 25 + 160;
+    return result;
+}
+
+extern "C" __declspec(dllexport) int 5wVVTI936(int param) {
+    int result = param * 61 + 175;
+    return result;
+}
+
+extern "C" __declspec(dllexport) int 9h7I6j7st(int param) {
+    int result = param * 101 + 64;
+    return result;
+}
+
+extern "C" __declspec(dllexport) int zyQqYAjsF(int param) {
+    int result = param * 10 + 336;
+    return result;
+}
+
+extern "C" __declspec(dllexport) int feywNfybR(int param) {
+    int result = param * 13 + 498;
+    return result;
+}
+
+extern "C" __declspec(dllexport) int GDm7h5ByR(int param) {
+    int result = param * 66 + 27;
+    return result;
+}
+
+extern "C" __declspec(dllexport) int rZIDWj2ba(int param) {
+    int result = param * 71 + 96;
+    return result;
+}
+
+extern "C" __declspec(dllexport) int gECipFZKH(int param) {
+    int result = param * 8 + 346;
+    return result;
+}
+
+extern "C" __declspec(dllexport) int h8nuihj8r(int param) {
+    int result = param * 92 + 423;
+    return result;
+}
+
+extern "C" __declspec(dllexport) int 3W5rk63KI(int param) {
+    int result = param * 73 + 234;
+    return result;
+}
+
+extern "C" __declspec(dllexport) int ct3CPdcbw(int param) {
+    int result = param * 101 + 457;
+    return result;
+}
+
+extern "C" __declspec(dllexport) int cz8AIfaBD(int param) {
+    int result = param * 99 + 256;
+    return result;
+}
+
+extern "C" __declspec(dllexport) int TX1hD20xV(int param) {
+    int result = param * 54 + 460;
+    return result;
+}
+
+extern "C" __declspec(dllexport) int DK696ppEO(int param) {
+    int result = param * 106 + 476;
+    return result;
+}
+
+extern "C" __declspec(dllexport) int p0IlZqWG5(int param) {
+    int result = param * 95 + 135;
+    return result;
+}
+
+extern "C" __declspec(dllexport) int PaLUKeglq(int param) {
+    int result = param * 43 + 411;
+    return result;
+}
+
+extern "C" __declspec(dllexport) int HCssGnVeM(int param) {
+    int result = param * 21 + 214;
+    return result;
+}
+
+extern "C" __declspec(dllexport) int cItbsqpR0(int param) {
+    int result = param * 62 + 270;
+    return result;
+}
+
+extern "C" __declspec(dllexport) int 3Bfy3wqYB(int param) {
+    int result = param * 6 + 435;
+    return result;
+}
+
+extern "C" __declspec(dllexport) int ybIWNGWLP(int param) {
+    int result = param * 64 + 209;
+    return result;
+}
+
+extern "C" __declspec(dllexport) int nmWUuRmsb(int param) {
+    int result = param * 8 + 105;
+    return result;
+}
+
+extern "C" __declspec(dllexport) int o1YIyJQgO(int param) {
+    int result = param * 113 + 281;
+    return result;
+}
+
+extern "C" __declspec(dllexport) int RG3DKxqpW(int param) {
+    int result = param * 61 + 257;
+    return result;
+}
+
+extern "C" __declspec(dllexport) int hVOdqqRdF(int param) {
+    int result = param * 33 + 55;
+    return result;
+}
+
+extern "C" __declspec(dllexport) int nvHhMXA8u(int param) {
+    int result = param * 7 + 54;
+    return result;
+}
+
+extern "C" __declspec(dllexport) int 5rS3jffLT(int param) {
+    int result = param * 10 + 60;
+    return result;
+}
+
+extern "C" __declspec(dllexport) int Ov2IXvOwW(int param) {
+    int result = param * 5 + 236;
+    return result;
+}
+
+extern "C" __declspec(dllexport) int 4aNJcqJ19(int param) {
+    int result = param * 76 + 180;
+    return result;
+}
+
+extern "C" __declspec(dllexport) int YvIs4yfLW(int param) {
+    int result = param * 75 + 473;
+    return result;
+}
+
+extern "C" __declspec(dllexport) int iTFQtrQqc(int param) {
+    int result = param * 110 + 173;
+    return result;
+}
+
+extern "C" __declspec(dllexport) int LB57TxQmq(int param) {
+    int result = param * 119 + 478;
+    return result;
+}
+
+extern "C" __declspec(dllexport) int r9ZUl1FzH(int param) {
+    int result = param * 73 + 142;
+    return result;
+}
+
+extern "C" __declspec(dllexport) int uuHKTvtrS(int param) {
+    int result = param * 77 + 316;
+    return result;
+}
+
+extern "C" __declspec(dllexport) int VnZt8Y695(int param) {
+    int result = param * 119 + 423;
+    return result;
+}
+
+extern "C" __declspec(dllexport) int kWZSreM9X(int param) {
+    int result = param * 80 + 343;
+    return result;
+}
+
+extern "C" __declspec(dllexport) int fMseWVL1h(int param) {
+    int result = param * 55 + 158;
+    return result;
+}
+
+extern "C" __declspec(dllexport) int 8CgqVdci5(int param) {
+    int result = param * 45 + 38;
+    return result;
+}
+
+extern "C" __declspec(dllexport) int wqp3Z7Pqw(int param) {
+    int result = param * 26 + 409;
+    return result;
+}
+
+extern "C" __declspec(dllexport) int 6i2PQzmRj(int param) {
+    int result = param * 87 + 206;
+    return result;
+}
+
+extern "C" __declspec(dllexport) int vFYtfoskO(int param) {
+    int result = param * 77 + 69;
+    return result;
+}
+
+extern "C" __declspec(dllexport) int ANvZkgBx1(int param) {
+    int result = param * 50 + 307;
+    return result;
+}
+
+extern "C" __declspec(dllexport) int FGBfWhQ2S(int param) {
+    int result = param * 24 + 475;
+    return result;
+}
+
+extern "C" __declspec(dllexport) int WYCU5avjl(int param) {
+    int result = param * 34 + 379;
+    return result;
+}
+
+extern "C" __declspec(dllexport) int Fp4qN6C8g(int param) {
+    int result = param * 40 + 280;
+    return result;
+}
+
+extern "C" __declspec(dllexport) int 61YedNFFy(int param) {
+    int result = param * 39 + 366;
+    return result;
+}
+
+extern "C" __declspec(dllexport) int 21lCtc9YX(int param) {
+    int result = param * 19 + 340;
+    return result;
+}
+
+extern "C" __declspec(dllexport) int 3pwESp9aZ(int param) {
+    int result = param * 48 + 373;
+    return result;
+}
+
+extern "C" __declspec(dllexport) int dN9OL8bpK(int param) {
+    int result = param * 86 + 489;
+    return result;
+}
+
+extern "C" __declspec(dllexport) int OIqXL0Zlm(int param) {
+    int result = param * 13 + 168;
+    return result;
+}
+
+extern "C" __declspec(dllexport) int bYdGcg9kg(int param) {
+    int result = param * 79 + 473;
+    return result;
+}
+
+extern "C" __declspec(dllexport) int FgsaE8BUR(int param) {
+    int result = param * 24 + 149;
+    return result;
+}
+
+extern "C" __declspec(dllexport) int Uxdnsdu3L(int param) {
+    int result = param * 18 + 490;
+    return result;
+}
+
+extern "C" __declspec(dllexport) int Q7si9bEMB(int param) {
+    int result = param * 56 + 123;
+    return result;
+}
+
+extern "C" __declspec(dllexport) int oLCuTiW1Y(int param) {
+    int result = param * 57 + 468;
+    return result;
+}
+
+extern "C" __declspec(dllexport) int mIWOJ4gr4(int param) {
+    int result = param * 27 + 326;
+    return result;
+}
+
+extern "C" __declspec(dllexport) int OjSH5TXh8(int param) {
+    int result = param * 117 + 68;
+    return result;
+}
+
+extern "C" __declspec(dllexport) int cBKfbeVKO(int param) {
+    int result = param * 120 + 151;
+    return result;
+}
+
+extern "C" __declspec(dllexport) int kWhvR920k(int param) {
+    int result = param * 71 + 351;
+    return result;
+}
+
+extern "C" __declspec(dllexport) int IVvuujx8x(int param) {
+    int result = param * 19 + 204;
+    return result;
+}
+
+extern "C" __declspec(dllexport) int tnWDrtjWn(int param) {
+    int result = param * 90 + 86;
+    return result;
+}
+
+extern "C" __declspec(dllexport) int m8WYS98kx(int param) {
+    int result = param * 100 + 467;
+    return result;
+}
+
+extern "C" __declspec(dllexport) int mlSqbk74Z(int param) {
+    int result = param * 46 + 31;
+    return result;
+}
+
+extern "C" __declspec(dllexport) int L0t2C1mJ3(int param) {
+    int result = param * 57 + 165;
+    return result;
+}
+
+extern "C" __declspec(dllexport) int 94J2Qzpl9(int param) {
+    int result = param * 92 + 186;
+    return result;
+}
+
+extern "C" __declspec(dllexport) int h0v3I5OOL(int param) {
+    int result = param * 55 + 139;
+    return result;
+}
+
+extern "C" __declspec(dllexport) int TKKpJa6Au(int param) {
+    int result = param * 64 + 278;
+    return result;
+}
+
+extern "C" __declspec(dllexport) int 6n1amLdvc(int param) {
+    int result = param * 40 + 234;
+    return result;
+}
+
+extern "C" __declspec(dllexport) int tsNI1mhah(int param) {
+    int result = param * 110 + 191;
+    return result;
+}
+
+extern "C" __declspec(dllexport) int AcSkZkMl0(int param) {
+    int result = param * 97 + 393;
+    return result;
+}
+
+extern "C" __declspec(dllexport) int cyUFlN8M3(int param) {
+    int result = param * 39 + 460;
+    return result;
+}
+
+extern "C" __declspec(dllexport) int ziN6YSVqo(int param) {
+    int result = param * 112 + 271;
+    return result;
+}
+
+extern "C" __declspec(dllexport) int 4DHt2Ic6D(int param) {
+    int result = param * 64 + 300;
+    return result;
+}
+
+extern "C" __declspec(dllexport) int UACleKk0k(int param) {
+    int result = param * 84 + 426;
+    return result;
+}
+
+extern "C" __declspec(dllexport) int MuMKtal3f(int param) {
+    int result = param * 18 + 59;
+    return result;
+}
+
+extern "C" __declspec(dllexport) int U2ByFqOPb(int param) {
+    int result = param * 30 + 323;
+    return result;
+}
+
+extern "C" __declspec(dllexport) int BCW2UsK0M(int param) {
+    int result = param * 120 + 304;
+    return result;
+}
+
+extern "C" __declspec(dllexport) int sXIISg5yd(int param) {
+    int result = param * 39 + 371;
+    return result;
+}
+
+extern "C" __declspec(dllexport) int XHgzuVZ0B(int param) {
+    int result = param * 24 + 301;
+    return result;
+}
+
+extern "C" __declspec(dllexport) int vZuAx7mug(int param) {
+    int result = param * 113 + 3;
+    return result;
+}
+
+extern "C" __declspec(dllexport) int hd9eslwT7(int param) {
+    int result = param * 55 + 424;
+    return result;
+}
+
+extern "C" __declspec(dllexport) int AhQTProy6(int param) {
+    int result = param * 114 + 130;
+    return result;
+}
+
+extern "C" __declspec(dllexport) int uUYDLMfoB(int param) {
+    int result = param * 40 + 173;
+    return result;
+}
+
+extern "C" __declspec(dllexport) int WYwRkD5b5(int param) {
+    int result = param * 117 + 254;
+    return result;
+}
+
+extern "C" __declspec(dllexport) int hBOLrPuM7(int param) {
+    int result = param * 110 + 146;
+    return result;
+}
+
+extern "C" __declspec(dllexport) int AlxDk9XiN(int param) {
+    int result = param * 7 + 408;
+    return result;
+}
+
+extern "C" __declspec(dllexport) int IOSXcqxBI(int param) {
+    int result = param * 108 + 473;
+    return result;
+}
+
+extern "C" __declspec(dllexport) int 9qqBhYhNs(int param) {
+    int result = param * 93 + 465;
+    return result;
+}
+
+extern "C" __declspec(dllexport) int icNo9rdu3(int param) {
+    int result = param * 37 + 229;
+    return result;
+}
+
+extern "C" __declspec(dllexport) int kBR6e08C4(int param) {
+    int result = param * 78 + 179;
+    return result;
+}
+
+extern "C" __declspec(dllexport) int w9gT9Sa44(int param) {
+    int result = param * 86 + 35;
+    return result;
+}
+
+extern "C" __declspec(dllexport) int hM81LSwkh(int param) {
+    int result = param * 47 + 379;
+    return result;
+}
+
+extern "C" __declspec(dllexport) int 37WSaxsVV(int param) {
+    int result = param * 11 + 297;
+    return result;
+}
+
+extern "C" __declspec(dllexport) int kFJwyoKxn(int param) {
+    int result = param * 106 + 312;
+    return result;
+}
+
+extern "C" __declspec(dllexport) int 6n26RjYxr(int param) {
+    int result = param * 107 + 117;
+    return result;
+}
+
+extern "C" __declspec(dllexport) int BB13JonlY(int param) {
+    int result = param * 41 + 457;
+    return result;
+}
+
+extern "C" __declspec(dllexport) int kfTsBdH1L(int param) {
+    int result = param * 87 + 487;
+    return result;
+}
+
+extern "C" __declspec(dllexport) int xSWVRDtr2(int param) {
+    int result = param * 47 + 424;
+    return result;
+}
+
+extern "C" __declspec(dllexport) int Ezkj120Xw(int param) {
+    int result = param * 57 + 293;
+    return result;
+}
+
+extern "C" __declspec(dllexport) int NvHp8XReb(int param) {
+    int result = param * 83 + 453;
+    return result;
+}
+
+extern "C" __declspec(dllexport) int bO0R048JX(int param) {
+    int result = param * 12 + 278;
+    return result;
+}
+
+extern "C" __declspec(dllexport) int ax7DV4VFC(int param) {
+    int result = param * 42 + 427;
+    return result;
+}
+
+extern "C" __declspec(dllexport) int qPFORwDdp(int param) {
+    int result = param * 32 + 210;
+    return result;
+}
+
+extern "C" __declspec(dllexport) int su3C5WezM(int param) {
+    int result = param * 45 + 30;
+    return result;
+}
+
+extern "C" __declspec(dllexport) int 8kdVHiepm(int param) {
+    int result = param * 69 + 340;
+    return result;
+}
+
+extern "C" __declspec(dllexport) int izwzGePrG(int param) {
+    int result = param * 13 + 228;
+    return result;
+}
+
+extern "C" __declspec(dllexport) int T5L1QSRJB(int param) {
+    int result = param * 106 + 239;
+    return result;
+}
+
+extern "C" __declspec(dllexport) int BMn9yaYwV(int param) {
+    int result = param * 72 + 192;
+    return result;
+}
+
+extern "C" __declspec(dllexport) int sVEukmzXH(int param) {
+    int result = param * 105 + 272;
+    return result;
+}
+
+extern "C" __declspec(dllexport) int KNLjOchDk(int param) {
+    int result = param * 117 + 71;
+    return result;
+}
+
+extern "C" __declspec(dllexport) int tLz2PdQUV(int param) {
+    int result = param * 48 + 343;
+    return result;
+}
+
+extern "C" __declspec(dllexport) int piwX2Ea5A(int param) {
+    int result = param * 98 + 380;
+    return result;
+}
+
+extern "C" __declspec(dllexport) int uxyZvjE1l(int param) {
+    int result = param * 77 + 316;
+    return result;
+}
+
+extern "C" __declspec(dllexport) int 63CfYNlMX(int param) {
+    int result = param * 74 + 139;
+    return result;
+}
+
+extern "C" __declspec(dllexport) int 8a3td5AXV(int param) {
+    int result = param * 70 + 155;
+    return result;
+}
+
+extern "C" __declspec(dllexport) int R9gvahpdz(int param) {
+    int result = param * 77 + 387;
+    return result;
+}
+
+extern "C" __declspec(dllexport) int BAtgBJ1lV(int param) {
+    int result = param * 118 + 83;
+    return result;
+}
+
+extern "C" __declspec(dllexport) int FZvn2iwBC(int param) {
+    int result = param * 11 + 28;
+    return result;
+}
+
+extern "C" __declspec(dllexport) int 6yxsiNWwh(int param) {
+    int result = param * 82 + 240;
+    return result;
+}
+
+extern "C" __declspec(dllexport) int lBTIxbgi9(int param) {
+    int result = param * 51 + 288;
+    return result;
+}
+
+extern "C" __declspec(dllexport) int 5LmRsjTDs(int param) {
+    int result = param * 120 + 253;
+    return result;
+}
+
+extern "C" __declspec(dllexport) int Y7x0T2YhC(int param) {
+    int result = param * 116 + 199;
+    return result;
+}
+
+extern "C" __declspec(dllexport) int 9NsjaB9R1(int param) {
+    int result = param * 21 + 291;
+    return result;
+}
+
+extern "C" __declspec(dllexport) int DTalaFHjU(int param) {
+    int result = param * 74 + 440;
+    return result;
+}
+
+extern "C" __declspec(dllexport) int 6b9khMCv2(int param) {
+    int result = param * 39 + 54;
+    return result;
+}
+
+extern "C" __declspec(dllexport) int QMymlqeJq(int param) {
+    int result = param * 63 + 130;
+    return result;
+}
+
+extern "C" __declspec(dllexport) int VeUDVMo3E(int param) {
+    int result = param * 18 + 1;
+    return result;
+}
+
+extern "C" __declspec(dllexport) int kPenPgwuA(int param) {
+    int result = param * 26 + 458;
+    return result;
+}
+
+extern "C" __declspec(dllexport) int UUg1vYoos(int param) {
+    int result = param * 110 + 39;
+    return result;
+}
+
+extern "C" __declspec(dllexport) int C3jt3wxKq(int param) {
+    int result = param * 90 + 339;
+    return result;
+}
+
+extern "C" __declspec(dllexport) int MQCVumqvj(int param) {
+    int result = param * 110 + 443;
+    return result;
+}
+
+extern "C" __declspec(dllexport) int u1KFsJbdG(int param) {
+    int result = param * 113 + 304;
+    return result;
+}
+
+extern "C" __declspec(dllexport) int z1h3lPtFt(int param) {
+    int result = param * 85 + 197;
+    return result;
+}
+
+extern "C" __declspec(dllexport) int aTUufiDvb(int param) {
+    int result = param * 97 + 279;
+    return result;
+}
+
+extern "C" __declspec(dllexport) int 0avHjLlKn(int param) {
+    int result = param * 32 + 283;
+    return result;
+}
+
+extern "C" __declspec(dllexport) int 8IVpRQFvL(int param) {
+    int result = param * 26 + 125;
+    return result;
+}
+
+extern "C" __declspec(dllexport) int pO6PgrcTh(int param) {
+    int result = param * 114 + 208;
+    return result;
+}
+
+extern "C" __declspec(dllexport) int 1DUcjUcWm(int param) {
+    int result = param * 45 + 238;
+    return result;
+}
+
+extern "C" __declspec(dllexport) int Spp9CokJe(int param) {
+    int result = param * 14 + 234;
+    return result;
+}
+
+extern "C" __declspec(dllexport) int n4cYEWOB5(int param) {
+    int result = param * 43 + 493;
+    return result;
+}
+
+extern "C" __declspec(dllexport) int JBvH6VFxi(int param) {
+    int result = param * 113 + 353;
+    return result;
+}
+
+extern "C" __declspec(dllexport) int 1m88RG24j(int param) {
+    int result = param * 47 + 327;
+    return result;
+}
+
+extern "C" __declspec(dllexport) int JOTarW7IK(int param) {
+    int result = param * 25 + 437;
+    return result;
+}
+
+extern "C" __declspec(dllexport) int zObimt5Hz(int param) {
+    int result = param * 84 + 196;
+    return result;
+}
+
+extern "C" __declspec(dllexport) int 3IcFtlagM(int param) {
+    int result = param * 44 + 109;
+    return result;
+}
+
+extern "C" __declspec(dllexport) int im0LbpQTb(int param) {
+    int result = param * 14 + 469;
+    return result;
+}
+
+extern "C" __declspec(dllexport) int xqkDGqHu9(int param) {
+    int result = param * 38 + 149;
+    return result;
+}
+
+extern "C" __declspec(dllexport) int Pi1sSV7zc(int param) {
+    int result = param * 82 + 16;
+    return result;
+}
+
+extern "C" __declspec(dllexport) int 1xJzA2Yf4(int param) {
+    int result = param * 35 + 54;
+    return result;
+}
+
+extern "C" __declspec(dllexport) int I0hP87VIX(int param) {
+    int result = param * 82 + 419;
+    return result;
+}
+
